@@ -8,6 +8,10 @@ data source: [UCI a9a](http://ml.cs.tsinghua.edu.cn/~wenbo/data/a9a.zip)
 implement EM for mixture of multinomials  
 data source: [20newsgroup](http://qwone.com/~jason/20Newsgroups/)
 
+## mnist_PCA
+implement PCA for MNIST  
+data source: [MNIST](http://yann.lecun.com/exdb/mnist/)  
+
 ## class-conditioned_VAE
 implement class-conditioned VAE for MNIST  
 data source: [MNIST](http://yann.lecun.com/exdb/mnist/)  
